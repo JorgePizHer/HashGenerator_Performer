@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Qi_p_aWNP0WsXEh1-8gxYA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="forms.office.com/Pages/ResponsePage.aspx" CVScreenId="b67ba9a2-7230-4068-b58c-e384e5c5fa7a" CvElementArea="437, 618, 111, 55" CvTextArea="467, 636, 52, 17" CvTextArgument="Enviar" CvType="Button" DesignTimeRectangle="440, 620, 107, 50" DesignTimeScaleFactor="1.25" ElementType="Button" FuzzySelectorArgument="&lt;webctrl class='css-202' tag='BUTTON' type='' aaname='Enviar' check:innerText='Enviar' /&gt;" Guid="995911de-1fa1-4b05-b104-9a2335d8f4e6" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Points Tracker' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b67ba9a2-7230-4068-b58c-e384e5c5fa7a" DesignTimeRectangle="415, 620, 1089, 50" FuzzySelectorArgument="&lt;webctrl class='css-200' parentid='form-main-content1' tag='DIV' type='' aaname='' check:innerText='Enviar' /&gt;" Guid="76052c6e-3709-4e60-bb91-2b86826e5ccf" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="253410fdc89c0aebe694a7a2d810f405.png" xmlns="">0n0FOuGD5bk2s1I2XD4fD-Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

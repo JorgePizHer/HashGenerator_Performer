@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Points Tracker",
+  "Type": "Screen",
+  "Id": "d9s06xgg5U2nFhKIXZd99g",
+  "Reference": "2XepCg6HNEae3PuWttu7lw/d9s06xgg5U2nFhKIXZd99g",
+  "ParentRef": "2XepCg6HNEae3PuWttu7lw/HU1n7W747kuDTLzO7x7MSQ",
+  "Created": "2024-12-11T11:13:16.6031266Z",
+  "Updated": "2024-12-11T11:13:16.6031266Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

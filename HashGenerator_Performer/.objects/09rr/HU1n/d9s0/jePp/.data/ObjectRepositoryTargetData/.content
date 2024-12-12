@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="cuGqvZIZR0uF0sSoMh4INA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="forms.office.com/Pages/ResponsePage.aspx" CVScreenId="397a884e-b2ae-47ca-893d-cfc24bf6b1b6" DesignTimeRectangle="465, 387, 1014, 42" DesignTimeScaleFactor="1.25" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl aria-labelledby='QuestionId_r328617e9f9e34d06acbfb57d0e97ba82 QuestionInfo_r328617e9f9e34d06acbfb57d0e97ba82' tag='INPUT' type='' class='-as-66' placeholder='Escriba su respuesta' aaname='' /&gt;" Guid="3640854c-780a-4742-ad1b-f4e622b95408" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Points Tracker' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="397a884e-b2ae-47ca-893d-cfc24bf6b1b6" CvTextArea="462, 339, 57, 18" CvTextArgument="Points" CvType="Text" DesignTimeRectangle="462, 338, 57, 20" ElementType="Text" Guid="e2e2342b-8a37-4e0a-9079-4467d442c45a" SearchSteps="CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="6388ca21b709d7e227c1d4d0f321cc46.png" xmlns="">0h1fHL4fk9EK15EcY4ZEKhw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
